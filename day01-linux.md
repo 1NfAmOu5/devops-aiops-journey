@@ -40,11 +40,4 @@
 - Git commit warning about identity: fixed with `git config --global user.name` and `user.email`.
 - `git push` showed nothing new: there were no file changes to commit.
 
-## Break/fix
-- Broke permissions with `chmod -R 000 ~/lab`.
-- Recovered with: (fill in what you did)
 
-## Self-check answers
-1. 644 vs 755: (fill in)
-2. Why logs live in /var/log: (fill in)
-3. What `find / -name "*.conf" -size +1k 2>/dev/null` does: (fill in)
